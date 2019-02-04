@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["name","console","log"],"mappings":"AAAA,MAAMA,OAAO,QAAb;AACAC,QAAQC,GAAR,CAAYF,IAAZ","file":"index.js","sourcesContent":["const name = 'Faiyaz'\nconsole.log(name)"]}
